@@ -9,13 +9,16 @@
 <body>
     <nav class="navbar border-bottom shadow navbar-expand-sm bg-primary navbar-dark justify-content-center">
         <div class="container-fluid">
-            <a href="./" class="navbar-brand">Visualizer</a>
+            <a href="index.php" class="navbar-brand">Visualizer</a>
         </div>
         <ul class="navbar-nav me-3">
             <li class="nav-item">
-                <a href="./" class="nav-link active">Home</a>
+                <a href="index.php" class="nav-link active">Home</a>
             </li>
         </ul>
     </nav>
+    <div class="container">
+        <h1>Titulo</h1>
+    </div>
 </body>
 </html>
